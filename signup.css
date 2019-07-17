@@ -54,14 +54,12 @@ form{	position:absolute;
 
 .Heading{ font-size:7px;
 	  color:#C8C8C8;
-	  padding-top:10px;
-	}
+	  padding-top:10px;}
 
 input[type=text]{ border:none;
 		  border-bottom:1px solid #C8C8C8;
 		  background-color:#F4F4F4;
-		  font-size:11px;
-		  }
+		  font-size:11px;}
 
 input[type=password]{ border:none;
 		      border-bottom:1px solid #C8C8C8;
